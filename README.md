@@ -97,6 +97,5 @@ The API uses a custom ApiError class for standardized error responses:
 - 409: Conflict
 - 500: Internal Server Error
 
-## License
-
-[MIT](LICENSE)
+## for testing use the endpoint
+http://localhost:8000/api/v1/
